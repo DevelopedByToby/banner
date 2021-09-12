@@ -1,0 +1,30 @@
+#image{
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    right: 50px;
+    bottom: 1500px;
+    top: 150px;
+}
+
+#text0{
+    z-index: 9;
+    font-size: 100px;
+    font-family: sans-serif;
+    position: relative;
+    left: 500px;
+    bottom: 600px;
+    top: 600px;
+    right: 50px;
+}
+
+#text1{
+z-index: 9;
+font-size: 100px;
+font-family: sans-serif;
+position: relative;
+left: 500px;
+bottom: 600px;
+top: 650px;
+right: 50px;
+}
