@@ -28,3 +28,15 @@ bottom: 600px;
 top: 650px;
 right: 50px;
 }
+
+#website{
+z-index: 9;
+font-size: 35px;
+color:rgba(0, 0, 0, 0.568);
+font-family: sans-serif;
+position: relative;
+left: 500px;
+bottom: 600px;
+top: 650px;
+right: 50px;
+}
