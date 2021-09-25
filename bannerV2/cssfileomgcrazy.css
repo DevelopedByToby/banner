@@ -1,0 +1,43 @@
+#image{
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    right: 50px;
+    bottom: 1500px;
+    top: 150px;
+}
+
+#text0{
+    z-index: 9;
+    font-size: 75px;
+    font-family: sans-serif;
+    position: absolute;
+    left: 2000px;
+    bottom: 600px;
+    top: 600px;
+    right: 500px;
+}
+
+#text1{
+    color: rgba(39, 38, 38, 0.822);
+    z-index: 9;
+    font-size: 50px;
+    font-family: sans-serif;
+    position: relative;
+    left: 1900px;
+    bottom: 0px;
+    top: 900px;
+    right: 400px;
+}
+
+#website{
+z-index: 9;
+font-size: 35px;
+color:rgba(0, 0, 0, 0.568);
+font-family: sans-serif;
+position: relative;
+left: 2200px;
+bottom: 0px;
+top: 950px;
+right: 400px;
+}
